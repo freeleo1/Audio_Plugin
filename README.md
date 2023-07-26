@@ -2,6 +2,8 @@
 
 C++ project to practice
 
+[Link](https://www.youtube.com/watch?v=Mo0Oco3Vimo&t=2397s) to the video of the project.
+
 ```powershell
 git add .
 ```
@@ -12,10 +14,14 @@ To undo changes
 git reset 
 ```
 
+how to commit
+
 ```powershell
 git commit 
 ```
+
 or
+
 ```powershell
 git commit -m "Initial commit"
 ```
