@@ -58,7 +58,7 @@ Test– test a feature
 
 example
 
-```vim
+```
 Docs: Fixes typo on in-from-the-depths.md
 
 Description:
